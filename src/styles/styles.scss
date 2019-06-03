@@ -1,0 +1,36 @@
+
+.cover{
+    background: url('http://www.hdfondos.eu/preview/get_photo/720077/2048/1152');
+    height: 100%;
+    width: 100%;
+}
+
+.videoIndex{
+    left: 90;
+    bottom: 10;
+    width: '100%';
+    text-align: 'right';
+    height:     80%;
+    width:     100%;
+    overflow-y: inherit;
+}
+
+
+.loginPage{
+    height: 100vh;
+    width: 100vw;
+    align-items: center;
+    background-size: cover;
+}
+
+.loginBtn{
+    margin-bottom: 11px;
+    margin-right: 20px;
+}
+
+.box .row.search {
+    flex: 0 1 auto;
+}
+
+
+
