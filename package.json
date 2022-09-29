@@ -37,7 +37,7 @@
     "chai": "^4.2.0",
     "copy-webpack-plugin": "4.5.2",
     "d3": "^5.5.0",
-    "d3-color": "1.2.0",
+    "d3-color": "3.1.0",
     "d3-interpolate": "1.2.0",
     "firebase": "^5.11.1",
     "marker-animate-unobtrusive": "0.2.8",
